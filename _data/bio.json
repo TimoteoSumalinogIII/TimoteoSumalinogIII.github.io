@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Timoteo Sumalinog III",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/timoteos.png",
+    "email": "timoteos@hawaii.edu",
+    "phone": "808-589-6056",
+    "website": "https://TimoteoSumalinogIII.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -18,12 +18,12 @@
       {
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/TimoteoSumalinogIII"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Timoteo Sumalinog III",
+        "url": "https://www.linkedin.com/in/timoteo-sumalinog-iii-692653195/"
       },
       {
         "network": "twitter",
@@ -39,19 +39,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Artifical Intelligence",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Virtualy/Augmented Reality",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Game Development",
       "keywords": [
       ]
     }
@@ -63,10 +63,10 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
@@ -84,9 +84,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,69 +95,65 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Unversity of Hawaii at Manoa Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2020-01-09",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assistanting Cilents with Technogical Issues",
+        "Monitor and Maintain Server"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Host Marriott Services Host",
+      "position": "Starbucks Barista",
+      "website": "https://www.hmshost.com/",
+      "startDate": "2019-10-08",
+      "endDate": "2020-01-07",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Craft Beverages for Customers"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Cathedral Basilica of Our Lady of Peace",
+      "website": "http://www.cathedralofourladyofpeace.com/",
+      "position": "Acolyte",
+      "startDate": "June 2015",
+      "endDate": "August 2019",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Assist Priest with Mass"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Academy of Computing Machinery at Manoa",
+      "website": "https://acmanoa.github.io/",
+      "position": "Treasurer",
+      "startDate": "January 2020",
+      "endDate": "present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Manage and Maintain Orgaization Funding"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "Intel ISEF 2019 System Software Finalist",
+      "date": "May 2019",
+      "awarder": "Society For Science & The Public",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Hack for the Sea",
+      "date": "September 2018",
+      "awarder": "Hack For The Sea Honolulu",
+      "summary": "Team Won First Place in an Open Public Hackathon"
     }
   ],
   "references": [
