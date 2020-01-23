@@ -75,6 +75,9 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Software Engineering",
+        "C++/C Programming and Data Structures",
+        "Elementary German"
       ]
     }
   ],
@@ -87,8 +90,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Assistanting Cilents with Technogical Issues",
-        "Monitor and Maintain Server"
+        "Assisting Cilents with Technogical Issues",
+        "Monitor and Maintain Servers and Services"
       ]
     },
     {
@@ -106,17 +109,6 @@
   ],
   "volunteer": [
     {
-      "organization": "Cathedral Basilica of Our Lady of Peace",
-      "website": "http://www.cathedralofourladyofpeace.com/",
-      "position": "Acolyte",
-      "startDate": "June 2015",
-      "endDate": "August 2019",
-      "summary": "",
-      "highlights": [
-        "Assist Priest with Mass"
-      ]
-    },
-    {
       "organization": "Academy of Computing Machinery at Manoa",
       "website": "https://acmanoa.github.io/",
       "position": "Treasurer",
@@ -124,7 +116,40 @@
       "endDate": "present",
       "summary": "",
       "highlights": [
-        "Manage and Maintain Orgaization Funding"
+        ""
+      ]
+    },
+    {
+      "organization": "Game Dev",
+      "website": "https://acmanoa.github.io/gamedev/",
+      "position": "Officer",
+      "startDate": "August 2019",
+      "endDate": "Present",
+      "summary": "Provide Learning Opportunities and Experience for Students who Have Intrest in Game Development",
+      "highlights": [
+        "Global Game Jam - February 2020"
+      ]
+    },
+    {
+      "organization": "Gray Hats",
+      "website": "https://acmanoa.github.io/greyhats/",
+      "position": "Officer",
+      "startDate": "August 2019",
+      "endDate": "Present",
+      "summary": "Inspire Fellow Students to Pursue the Cybersecurity Field and to Provide Oppurunity and Experience ",
+      "highlights": [
+        "National Collegiate Cyber Defense Competition - April 2019"
+      ]
+    },
+    {
+      "organization": "Programming and Algorithms (PANDA)",
+      "website": "https://acmanoa.github.io/aci/",
+      "position": "Memeber",
+      "startDate": "August 2019",
+      "endDate": "Present",
+      "summary": "Pratice Algorithm Problems and Prepare for the International Collegiate Programming Contest",
+      "highlights": [
+        "International Collegiate Programming Contest Division 2 - November 2019"
       ]
     }
   ],
@@ -133,13 +158,19 @@
       "title": "Intel ISEF 2019 System Software Finalist",
       "date": "May 2019",
       "awarder": "Society For Science & The Public",
-      "summary": "International Science Fair Finalist for the Systems Software Category"
+      "summary": "Develop a Machine Learning Mobile Application that collects and crowd source litter type onto a Google Map, in which heat maps are implemented to help provide statistical data for those who want to help the environment"
     },
     {
-      "title": "Hack for the Sea",
+      "title": "2nd place State Gold Divsion Cyberpatriot ",
+      "date": "February 2018",
+      "awarder": "",
+      "summary": "Highschool Cybersecurity Comptetition in which teams are given virtual operating  systems that they have to secure and meet company standards"
+    },
+    {
+      "title": "1st Place Hack for the Sea",
       "date": "September 2018",
       "awarder": "Hack For The Sea Honolulu",
-      "summary": "Team Won First Place in an Open Public Hackathon"
+      "summary": "Public 24 hour Hackathon, in which contestants have to develop an application that will help the beloved oceans of Hawaii"
     }
   ],
   "references": [
