@@ -112,18 +112,15 @@
       "organization": "Academy of Computing Machinery at Manoa",
       "website": "https://acmanoa.github.io/",
       "position": "Treasurer",
-      "startDate": "January 2020",
+      "startDate": "2020",
       "endDate": "present",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
+      "summary": "Provide Opportunities and Promote Social Interaction Amongst Individuals Intrested in the Computer Science Field",
     },
     {
       "organization": "Game Dev",
       "website": "https://acmanoa.github.io/gamedev/",
       "position": "Officer",
-      "startDate": "August 2019",
+      "startDate": "2019",
       "endDate": "Present",
       "summary": "Provide Learning Opportunities and Experience for Students who Have Intrest in Game Development",
       "highlights": [
@@ -134,7 +131,7 @@
       "organization": "Gray Hats",
       "website": "https://acmanoa.github.io/greyhats/",
       "position": "Officer",
-      "startDate": "August 2019",
+      "startDate": "2019",
       "endDate": "Present",
       "summary": "Inspire Fellow Students to Pursue the Cybersecurity Field and to Provide Oppurunity and Experience ",
       "highlights": [
@@ -145,7 +142,7 @@
       "organization": "Programming and Algorithms (PANDA)",
       "website": "https://acmanoa.github.io/aci/",
       "position": "Memeber",
-      "startDate": "August 2019",
+      "startDate": "2019",
       "endDate": "Present",
       "summary": "Pratice Algorithm Problems and Prepare for the International Collegiate Programming Contest",
       "highlights": [
@@ -161,7 +158,7 @@
       "summary": "Develop a Machine Learning Mobile Application that collects and crowd source litter type onto a Google Map, in which heat maps are implemented to help provide statistical data for those who want to help the environment"
     },
     {
-      "title": "2nd place State Gold Divsion Cyberpatriot ",
+      "title": "2nd place State Gold Divsion Cyberpatriot",
       "date": "February 2018",
       "awarder": "",
       "summary": "Highschool Cybersecurity Comptetition in which teams are given virtual operating  systems that they have to secure and meet company standards"
