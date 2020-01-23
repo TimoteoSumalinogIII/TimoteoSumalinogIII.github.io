@@ -30,16 +30,21 @@
   "interests": [
     {
       "name": "Artifical Intelligence",
-      "keywords": []
+      "keywords": [
+        "Python",
+        "Data"
+      ]
     },
     {
-      "name": "Virtualy/Augmented Reality",
+      "name": "Virtual/Augmented Reality",
       "keywords": [
       ]
     },
     {
       "name": "Game Development",
       "keywords": [
+        "Unity",
+        "Unreal Engine"
       ]
     }
   ],
@@ -77,7 +82,8 @@
       "courses": [
         "Software Engineering",
         "C++/C Programming and Data Structures",
-        "Elementary German"
+        "Elementary German",
+        "Elementary Russian"
       ]
     }
   ],
