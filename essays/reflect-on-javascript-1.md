@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
+<img class="ui medium left floated image" src="../images/js.jpg">
 
 ## My Thoughts on Javascript so far?
 
