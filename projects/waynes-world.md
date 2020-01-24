@@ -32,5 +32,5 @@ For this project I was the main programmer. I started by programming the foundat
 
 When ever I partcipate in a Hackathon or a Game Jam I always learn something new regardless of the tools and assets I use. During this Game Jam I was able to learn how to manipulate and create random events. To do such a task, I would have most events rely on a randomly generated value in which changes every so often with a timer. This would allow me to have objects such as the teddy bear spawn in different locations and have random tiles fall when ever you select the wrong painting. Overall, this Game Jam was really enjoyable and althought the game isn't a complete product I am proud that I was able to help create such a game with a very limited amount of time.
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+
 
