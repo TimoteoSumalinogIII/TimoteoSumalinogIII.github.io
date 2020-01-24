@@ -18,14 +18,14 @@ Javascript is no stranger for me as I've been using it since I was a Junior in H
 
 ```
 
-Python Be Like...
+Python
 
 fruits = ["Apple", "Oranges"]
 for fruits in basket:
     print(fruits)
 
 
-Javascript Be like...
+Javascript
 
 let fruits = ["Apple", "Oranges"];
 for (let i = 0; i < fruits.length; i++) {
