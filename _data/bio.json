@@ -115,12 +115,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Academy of Computing Machinery at Manoa",
+      "organization": "Association of Computing Machinery at Manoa",
       "website": "https://acmanoa.github.io/",
       "position": "Treasurer",
       "startDate": "2020",
-      "endDate": "present",
-      "summary": "Provide Opportunities and Promote Social Interaction Amongst Individuals Intrested in the Computer Science Field",
+      "endDate": "Present",
+      "summary": "Arranged workshops, and events to help inspire and support students with an interest in the Computer Science Field. Manage funding and plan fundraising events"
     },
     {
       "organization": "Game Dev",
@@ -128,7 +128,7 @@
       "position": "Officer",
       "startDate": "2019",
       "endDate": "Present",
-      "summary": "Provide Learning Opportunities and Experience for Students who Have Intrest in Game Development",
+      "summary": "Provide learning opportunities and experience for students who have intrest in Game Development",
       "highlights": [
         "Global Game Jam - February 2020"
       ]
@@ -139,9 +139,9 @@
       "position": "Officer",
       "startDate": "2019",
       "endDate": "Present",
-      "summary": "Inspire Fellow Students to Pursue the Cybersecurity Field and to Provide Oppurunity and Experience ",
+      "summary": "Organized meetings and prepare club members for Cybersecurity Competitions such as National Collegiate Cyber Defense Competition (CCDC) and National Cyber League ( NCL)",
       "highlights": [
-        "National Collegiate Cyber Defense Competition - April 2019"
+        "National Collegiate Cyber Defense Competition (CCDC) -  Secured a Windows and Linux-based virtual machine against a real life simulated attack"
       ]
     },
     {
@@ -152,7 +152,19 @@
       "endDate": "Present",
       "summary": "Pratice Algorithm Problems and Prepare for the International Collegiate Programming Contest",
       "highlights": [
-        "International Collegiate Programming Contest Division 2 - November 2019"
+        "International Collegiate Programming Contest (ICPC)- Competed in the 2nd Division algorithmic programming contest in the Pacific Northwest region"
+      ]
+    },
+    {
+      "organization": "Circle K International at Manoa",
+      "website": "https://ckiuhm.weebly.com/",
+      "position": "Webmaster",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Assist in planning upcomming events and meetings, and maintain club website",
+      "highlights": [
+        "Honolulu Marathon Volunteer - Setup event and passed out refreshments to particpants",
+        "Key to College Workshop - Hosted workshops for highschoolers to help prepare them for college and life after highschool"
       ]
     }
   ],

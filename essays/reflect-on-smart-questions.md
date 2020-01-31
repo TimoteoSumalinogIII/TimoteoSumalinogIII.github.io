@@ -12,7 +12,6 @@ labels:
 ---
 
 
-
 ## Why be Smart with Smart Questions?
 
 "Smart Questions" are essential in the world of Computer Science because no matter what we do we will always run into problems and bugs and typically questions to lead to answers. The lack of smart questions on community-based forms such as Stack Overflow makes it harder for readers to provide assistance or an explanation to your issue. Thus being detailed and explicit with what your problem helps everyone save time and find an efficient and proper solution. Furthermore, one does not want to ask questions that may have been already answered or can easily be solved by looking up documentation. Questions like these are commonly ignored and downvoted. These questions are heavily redundant as they are common questions that people may have had and are not worth the time to constantly provide an answer for.
