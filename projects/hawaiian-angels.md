@@ -15,10 +15,7 @@ summary: Voluntary Website Redesign for Blue Startups
 ---
 
 
-## What is Hawaiian Angel's?
-
-
-## 
+ 
 My contributions to this project is front-end 
 
 # Old Website

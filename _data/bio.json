@@ -39,7 +39,7 @@
     {
       "name": "Algorithms",
       "keywords": [
-        "NP Vs. P",
+        "NP vs. P",
         "Shortest Path"
       ]
     },
@@ -65,7 +65,7 @@
         "C#",
         "Python",
         "SQL ",
-        "Currently Learning: React, Typescript, Tensorflow"
+        "Currently Learning: React, Typescript, C/C++, Tensorflow"
       ]
     },
     {
@@ -87,8 +87,10 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "Software Engineering",
+        "Introduction to Software Engineering",
         "C++/C Programming and Data Structures",
+        "Discrete Mathematics",
+        "Calclus 2",
         "Elementary German",
         "Elementary Russian"
       ]
@@ -135,11 +137,11 @@
       "endDate": "Present",
       "summary": "Provide learning opportunities and experience for students who have intrest in Game Development",
       "highlights": [
-        "Global Game Jam - 48 hour hackathon to create and develop a game"
+        "Global Game Jam - 48 hour hackathon in which participants create and develop a game related to the given theme"
       ]
     },
     {
-      "organization": "Gray Hats",
+      "organization": "Grey Hats",
       "website": "https://acmanoa.github.io/greyhats/",
       "position": "Officer",
       "startDate": "2019",
@@ -157,7 +159,7 @@
       "endDate": "Present",
       "summary": "Pratice Algorithm Problems and Prepare for the International Collegiate Programming Contest",
       "highlights": [
-        "International Collegiate Programming Contest (ICPC)- Competed in the 2nd Division algorithmic programming contest in the Pacific Northwest region"
+        "International Collegiate Programming Contest (ICPC) - Competed in the 2nd Division algorithmic programming contest in the Pacific Northwest region"
       ]
     },
     {
