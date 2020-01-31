@@ -31,13 +31,16 @@
     {
       "name": "Artifical Intelligence",
       "keywords": [
-        "Python",
-        "Data"
+        "Computer Vision",
+        "Intelligent machines",
+        "Natural Language Processing"
       ]
     },
     {
-      "name": "Virtual/Augmented Reality",
+      "name": "Algorithms",
       "keywords": [
+        "NP Vs. P",
+        "Shortest Path"
       ]
     },
     {
@@ -46,6 +49,11 @@
         "Unity",
         "Unreal Engine"
       ]
+    },
+    {
+      "name": "Virtual/Augmented Reality",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -53,19 +61,18 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "C#",
-        "Java",
         "Javascript",
-        "Python"
+        "C#",
+        "Python",
+        "SQL ",
+        "Currently Learning: React, Typescript, Tensorflow"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Ubuntu",
+        "Linux",
         "Git/GitHub",
         "Visual Studio Code"
       ]
