@@ -19,11 +19,14 @@ summary: Voluntary Website Redesign for Blue Startups
 My contributions to this project is front-end 
 
 # Old Website
+<a href="https://www.hawaiiangels.org/">Here is a link to their old website</a>
 
+<img class="ui image" src="../images/old-hawaiian-angels-home.png">
 
 
 # New Website
 
+<img class="ui image" src="../images/hawaiian-angels-home.png">
 
 
 
