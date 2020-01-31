@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript an Old Friend and ICS 314 a New Friend!
+title: Smart Questions are a Smart Choice!
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
@@ -23,5 +23,5 @@ labels:
 
 
 ## Bad Example of a Smart Question 
-<a href="https://stackoverflow.com/questions/59998498/is-there-any-clearing-tool-in-google-map-api-which-deletes-all-the-shapes-coming">Question Link</a>
+(<a href="https://stackoverflow.com/questions/59998498/is-there-any-clearing-tool-in-google-map-api-which-deletes-all-the-shapes-coming">Question Link</a>)
 From the looks of this question, the person appears to be requesting someone to code something for him rather than having a clear in depth question. He doesn't clearly specify what he wants to remove and he doesn't specifify how exactly he wants his erasing tool to work. This is further supported by one of the comments asking "Can you be more precise on what you desire by this behavior clearing tool that will clear the area under selection? Clear (remove) what exactly?" and by the fact that this post (at the momemnt I have viewed it) has a downvote. As a result, his question is too general and it would be be inefficent to provide possible solutions as he/she may later say that its not what he/she is looking for.
