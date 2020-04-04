@@ -19,7 +19,7 @@ We all probaly know what this pandemic is causing across the world. But let me r
 
 ## My Daily Life Routine
 
-<img class="ui image" src="../images/terra-project-map.png">
+<img class="ui image" src="../images/js.jpg">
 
 My life has changed a lot due to the Corona Virus. For starters my sleep schedule has completely changed. With most of my classes not requiring us to meet online on Zoom, but insteads assigns online work, I didn't see the reason to sleep early. Normally I would sleep around 11 PM and wake around 6 AM, but now I sleep at 4 AM and wake up at 2 PM. This opens up a lot of flexible free time. Now I try to work out more often at home since, I didn't had time before the Corona Pandemic. Since, my job as an Overnight ITS Help Desk Consultant at UH Manoa is an essential service I have to bus all the way to UH Manoa from Waipahu. Normally I would just stay at the ICSpace after all my classes are over, but now I have to leave my house at 9:00 in order to make in time for my 11 PM shift. Since, I leave my house twice a week to go to work, my aunty gives a N95 mask and gloves to wear everytime I leave the house. Never had I ever experience so much aneixty on the bus. I become so paronid of every surface I touch and the people who are around me. It feels like I'm fending for life. The work at my job hasn't changed much. At first I thought since UH Manoa is all doing online classes, we would have much more help tickets that we would need to do, but the amount we recieved each night is pretty much the same. The only thing that I see as a positive change is the fact that I spend less money on takeout food, since I am mostly at home and can eat home cooked meal.
 
