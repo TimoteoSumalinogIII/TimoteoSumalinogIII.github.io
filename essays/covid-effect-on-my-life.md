@@ -32,3 +32,9 @@ First, I want to start off by mentioning how much I hate online classes. Wheneve
 
 Now due to all the potential free time I have, I am trying to take this oppurtunity to expand on my Software Engineering skills and develop projects. One project I am currently working on is a companionship application, that people can use to socially interact with one another via call, virtualy board games and much more. This is to help combat the social isolation that humanity must face in order to beat the Corona Virus. Another application I am working on is a Corona Virus Map and Data Visualizer. I know that there may be a lot of these existing already but I wanted to make one since I have an interest in Data Science and Data Visualization. I plan to have heatmaps, charts, graphs and other visual aid but with a very aesthetically appealing design. I am really excited about these two projects because it motivates me to learn new tools and software. For instance, the Companion Application I mentioned is actually going to be a Mobile Application that my team and I plan to publish this month. I am tasked with the mobile client of the application, and because of that I decided to self-teach React Native. It gets really interesting as well decided to use the MERN (MongoDB, Express.js, React.js, and Node.js) Tech Stack. Also, with these 2 projects, I am learning how to use new API's such as Stripe (Transaction API) and the Corona Virus Data API. 
  
+
+
+### P.S. STAY SAFE!!! ALSO DON'T Forget TO:
+
+<img class="ui image" src="../images/washyourhand.png">
+
