@@ -13,7 +13,7 @@ labels:
 
 
 ## COVID-19 A.K.A The Corona Virus
-<img class="ui image" src="../images/terra-project-map.png">
+<img class="ui image" src="../images/corona.jpg">
 
 We all probaly know what this pandemic is causing across the world. But let me remind you what it is and how its affecting the world. The Coronavirus is a highly infectious disease commonly refered to as COVID-19 that causes respiratory illness similar to the flu. Also, this disease causes our own immune system to turn against itself. This is really terrifying as a lot of elderly people and those with health problems are at high risk of servre symptoms and possibly death. The rate of virus is truly exponential. Something small such as coughing and sneezing can easily effect a large group of people. This is mainly due to the main form of this virus's spread is through cough dropletts. This Pandemic is serveing impacting the world. Not only is the death count rapidly rising, but also the economy is slowly dying. Tourism and travel compaines are losing money to the point where some of them have to file bankrupcty.  Also a bunch of workers are being laid off in order to prevent the spread of the Corona. To help aid against this the U.S. Government is now giving $1200 to each U.S. Citizen.  
 
@@ -28,7 +28,7 @@ First, I want to start off by mentioning how much I hate online classes. Wheneve
 
 ## My Life as an Aspring Software Engineer
 
-<img class="ui image" src="../images/softwareengineer.png">
+<img class="ui image" src="../images/softwareengineer.jpg">
 
 Now due to all the potential free time I have, I am trying to take this oppurtunity to expand on my Software Engineering skills and develop projects. One project I am currently working on is a companionship application, that people can use to socially interact with one another via call, virtualy board games and much more. This is to help combat the social isolation that humanity must face in order to beat the Corona Virus. Another application I am working on is a Corona Virus Map and Data Visualizer. I know that there may be a lot of these existing already but I wanted to make one since I have an interest in Data Science and Data Visualization. I plan to have heatmaps, charts, graphs and other visual aid but with a very aesthetically appealing design. I am really excited about these two projects because it motivates me to learn new tools and software. For instance, the Companion Application I mentioned is actually going to be a Mobile Application that my team and I plan to publish this month. I am tasked with the mobile client of the application, and because of that I decided to self-teach React Native. It gets really interesting as well decided to use the MERN (MongoDB, Express.js, React.js, and Node.js) Tech Stack. Also, with these 2 projects, I am learning how to use new API's such as Stripe (Transaction API) and the Corona Virus Data API. 
  
@@ -36,5 +36,5 @@ Now due to all the potential free time I have, I am trying to take this oppurtun
 
 ### P.S. STAY SAFE!!! ALSO DON'T Forget TO:
 
-<img class="ui image" src="../images/washyourhand.png">
+<img class="ui image" src="../images/washyourhand.jpg">
 
