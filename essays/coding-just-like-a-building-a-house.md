@@ -17,7 +17,7 @@ throughout blueprints to be repetitive. Meaning that it is seen to be used more 
 of recurring patterns. From flowers in fields to the stars, we gaze above. Now in the context of software engineering, this is no different. We create
 a software where sections of code may easily be used. For instance, a site like Amazon.com, consist of many pieces that look the same.
 
- <img class="ui large centered image" src="../images/routines.jpg">
+ <img class="ui large centered image" src="../images/amazon.png">
 
  From this screenshot, we can see that each of those books follow the same format. A picture of the book, the name of the book, the rating, the price, and more are positioned the same. Now this concept of solving recurring problems can be solved in various ways but mostly depends on what you the architect decides to use. React for example is structured around using a component design, in which pieces of code can easily be reused to solve
 to make software engineering quick and efficient. Even Object Oriented Programming has classes to help make coding convenient and easier to solve problems.
