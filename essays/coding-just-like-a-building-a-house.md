@@ -25,8 +25,8 @@ to make software engineering quick and efficient. Even Object Oriented Programmi
 ## Back to Building that House
 Houses are built differently depending on where the house is located. For instance, a house in Hawaii would be slightly different than a house to Alaska
 is due to how different the climate is in both areas. Hawaii which is more hot and tropical would want a design in which ventilation is nice and cool, while
-Alaska house architecture probably wants to have a design that will keep people warm. 
+Alaska house architecture probably wants to have a design that will keep people warm. In a more broad view, many houses share the same design in creating the foundation of a house. There are a few set standards that most architects follow to help maintain and create houses with strong integrity.
 
 
 ## The House that I am Building
-Throughout my project Ono-otw, many components make up the structure of the project. Many repetitive sections can be seen through the application. Whether it be our food cards to our menu cards, we recycle and re-use components throughout our application to develop in a fast and more efficient matter. For instance, rather than hard coding all these pieces, we can just simply re-use a piece. 
+Throughout my project Ono-otw, many components make up the structure of the project. Many repetitive sections can be seen through the application. Whether it be our food cards to our menu cards, we recycle and re-use components throughout our application to develop in a fast and more efficient matter. For instance, rather than hard coding all these pieces, we can just simply re-use a piece to maintain our design pattern. 
