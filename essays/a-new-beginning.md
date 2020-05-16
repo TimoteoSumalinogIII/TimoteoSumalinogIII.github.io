@@ -6,6 +6,7 @@ title: A New Beginning
 date: 2020-05-13
 labels:
   - Software Developing
+  - Career Stepping Stone
   - Coding Standards
   - Ethics 
 ---
@@ -20,7 +21,7 @@ A very important aspect of Software Engineering that I hold deeply is to follow 
 
 
 ## Stop and Think About the Ethics
-Ethics in software engineering is something I haven’t thought too much about when I first got into programming. I was so amazed at what programming can do that I forgot that we should be considerate of those who are using our programs and software. It is very easy to overlook and neglect problematic issues that could arise in the future. With that being said, this concept I learned in my software engineering class is a great one and an important one. There is that saying to create with the customer in mind, which I feel to be true. But we must consider the ethics behind it. For instance, a common issue is companies selling private data for profit. This is highly unethical and needs to be treated seriously.
+Ethics in software engineering is something I haven’t thought too much about when I first got into programming. I was so amazed at what programming can do that I forgot that we should be considerate of those who are using our programs and software. It is very easy to overlook and neglect problematic issues that could arise in the future. With that being said, this concept I learned in my software engineering class is a great one and an important one. There is that saying to create with the customer in mind, which I feel to be true. But we must consider the ethics behind it. For instance, a common issue is companies selling private data for profit. This is highly unethical and needs to be treated seriously. Even something small as a bug can easily be harmful to our audiences and consumers. The scope of these concepts is vast and goes beyond the ground of software engineering.  Ethics is something to keep in mind and is something we should never forget. It is ethical to think ethically.
 
 
 ## Let my Journey Begin! 
