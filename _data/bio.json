@@ -33,26 +33,22 @@
       "keywords": [
         "Computer Vision",
         "Intelligent machines",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Deep Learning"
       ]
     },
     {
-      "name": "Algorithms",
+      "name": "Algorithms and Data Structures",
       "keywords": [
         "NP vs. P",
-        "Shortest Path"
+        "Graph Theory"
       ]
     },
     {
-      "name": "Game Development",
+      "name": "Theory of Computation",
       "keywords": [
-        "Unity",
-        "Unreal Engine"
-      ]
-    },
-    {
-      "name": "Virtual/Augmented Reality",
-      "keywords": [
+        "Polynomial-Time Reduction",
+        "Turing Machines"
       ]
     }
   ],
@@ -62,19 +58,27 @@
       "level": "",
       "keywords": [
         "Javascript",
+        "React",
+        "React Native",
         "C#",
         "Python",
         "SQL ",
-        "Currently Learning: React, Typescript, C/C++, Tensorflow"
+        "C++",
+        "Semantic UI"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "Linux",
         "Git/GitHub",
-        "Visual Studio Code"
+        "Visual Studio Code",
+        "IntellJ Idea",
+        "Meteor",
+        "MongoDB",
+        "GNU Emacs"
       ]
     }
   ],
@@ -90,13 +94,24 @@
         "Introduction to Software Engineering",
         "C++/C Programming and Data Structures",
         "Discrete Mathematics",
-        "Calclus 2",
+        "Calculus 2",
         "Elementary German",
         "Elementary Russian"
       ]
     }
   ],
   "work": [
+    {
+      "company": "Unversity of Hawaii at Manoa",
+      "position": "STAR Assistant Web Programmer ",
+      "website": "https://www.star.hawaii.edu/help/#/",
+      "startDate": "2020-04-21",
+      "endDate": "Present",
+      "summary": "Assist development and debugging of UH Manoa registration and appointment websites",
+      "highlights": [
+  
+      ]
+    },
     {
       "company": "Unversity of Hawaii at Manoa Information Technology Services",
       "position": "Help Desk Consultant",
