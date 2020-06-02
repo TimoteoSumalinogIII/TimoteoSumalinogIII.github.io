@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/ono-otw.png
-title: Terra Project
+title: Ono Otw!
 permalink: projects/ono-otw
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-13
